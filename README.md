@@ -1,5 +1,7 @@
 I used my tool to brute force user IDs from 1 to 971959, took me 2 days for it and converted CSV to XLSX. None of these info contains sensitive info such as IP, email, etc.
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua) [![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua) [![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
+
 # Some statistics as of 16-7-2022
 
 Top 10 highest ratings
@@ -64,4 +66,4 @@ How many Sourvodkas: 1617
 
 # Looking for developers
 
-If you are pro-ukrainian developer, have free time and want to have some fun with RT (Russia Today), let me know
+If you are pro-ukrainian developer, have free time and want to have some fun with RT (Russia Today) and Tolstoy comments, let me know
