@@ -59,11 +59,19 @@ Admins and moderators on RT.com
 | Dim150            | @Dim150 (Dim150)           | Admin     |
 | webteam           | @webteam (webteam)          | Admin     |
 | Afanasyeva        | @Afanasyeva (Afanasyeva)       | Admin     |
-| AnastasiiaAA      | @AnastasiiaAA AnastasiiaAA)   | Moderator |
-| noname            | @vsaloeva (noname)       | Moderator |
+| AnastasiiaAA      | @AnastasiiaAA AnastasiiaAA)   | Default (Role was seen as Moderator) |
+| noname            | @vsaloeva (noname)       | Default (Role was seen as Moderator) |
 
 How many Sourvodkas: 1617
 
 # Looking for developers
 
 If you are pro-ukrainian developer, have free time and want to have some fun with RT (Russia Today) and Tolstoy comments, let me know
+
+# Contact
+- Discord: VanHoeven#5150
+- Email: vanhoeventr@proton.me
+
+# Fighting propaganda
+
+Digital Forces of Ukraine: https://discord.gg/s2TjRKfj
