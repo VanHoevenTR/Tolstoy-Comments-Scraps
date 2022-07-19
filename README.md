@@ -2,7 +2,7 @@ I used my tool to brute force user IDs from 1 to 971959, took me 2 days for it a
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua) [![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua) [![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
 
-# Some statistics as of 16-7-2022
+# Some statistics as of 19-7-2022
 
 Top 10 highest ratings
 
@@ -49,18 +49,18 @@ Top 10 most comments
 | Роберт                             | 12154   | 16023    |
 | 486 dx2                            | 42163   | 15972    |
 
-Admins and moderators on RT.com
+Admins and moderators on RT.com. Their roles were revoked due to us exposing them
 
 | Users             | Tags              | Role      |
 |-------------------|-------------------|-----------|
-| Moderator-butcher | @Moderator-butcher (Moderator-butcher)| Admin     |
-| serkaj            | @serkaj (serkaj)           | Admin     |
-| your_name_here    | @aabondarenko (your_name_here)     | Admin     |
-| Dim150            | @Dim150 (Dim150)           | Admin     |
+| Moderator-butcher | @Moderator-butcher (Moderator-butcher)| Default (Seen as Admin since 19-7-2022)    |
+| serkaj            | @serkaj (serkaj)           | Default (Seen as Admin since 18-7-2022)     |
+| your_name_here    | @aabondarenko (your_name_here)     | Default (Seen as Admin since 18-7-2022)     |
+| Dim150            | @Dim150 (Dim150)           | Default (Seen as Admin since 19-7-2022)     |
 | webteam           | @webteam (webteam)          | Admin     |
-| Afanasyeva        | @Afanasyeva (Afanasyeva)       | Admin     |
-| AnastasiiaAA      | @AnastasiiaAA AnastasiiaAA)   | Default (Role was seen as Moderator) |
-| noname            | @vsaloeva (noname)       | Default (Role was seen as Moderator) |
+| Afanasyeva        | @Afanasyeva (Afanasyeva)       |  Default (Seen as Admin since 19-7-2022)     |
+| AnastasiiaAA      | @AnastasiiaAA AnastasiiaAA)   | Default (Seen as Moderator since 17-7-2022) |
+| noname (Deleted)           | @vsaloeva (noname)       | Default (Seen as Moderator since 17-7-2022) |
 
 How many Sourvodkas: 1617
 
